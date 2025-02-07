@@ -3,8 +3,8 @@
 ----------------------
 
 * 🌍  I'm based in INDIA
-* ✉️  You can contact me at [sayali27.takalkar@gmail.com](mailto:sayali27.takalkar@gmail.com)
-* 🧠  I'm learning DSA | web dev | React js
+* ✉️  You can contact me at [sayali.takalkar0502@gmail.com](mailto:sayali.takalkar0502@gmail.com)
+* 🧠  I'm learning DSA | web dev | React js | Node Js.
 
 <a href="https://www.twitter.com/SayaliTakalkar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SayaliTakalkar?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
